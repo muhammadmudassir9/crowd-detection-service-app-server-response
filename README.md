@@ -1,2 +1,2 @@
-# crowd-detection-service-app-server-response
-Backend
+# Crowd-Couting-Django-Rest-API
+ Django rest api for crowd counting
